@@ -815,3 +815,4 @@ D:\_git\Exo.WebApi\obj\Debug\net6.0\refint\Exo.WebApi.dll
 D:\_git\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 D:\_git\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 D:\_git\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+D:\_git\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
